@@ -7,7 +7,6 @@ Before digging in to the main part, lets just share the current official API doc
 * [bKash Payment Demo](https://merchantdemo.sandbox.bka.sh/frontend/checkout)
 
 ## Preparation 
-
 First of all, we will implement everything from the demo to our webpage. In other words, we will create a demo payment page exactly as the demo provided by the bKash and if that works as expected, we will integrate sandbox APIs with that. And, further dive into the real integration. 
 
 To integrate bKash payment gateway, you will need jQuery and a script provided by bKash. At first, add jQuery to your webpage. Then add the bKash script. The bKash script link is not given in the demo. So, you will have to find that on your own. I will explain how to do that. Go to the demo implementation link. Open developer tools. Reload the page. You will see a request from the demo page to something like `getCheckoutScript` in the network tab. See the attached image below -
