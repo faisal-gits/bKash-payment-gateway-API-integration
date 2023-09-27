@@ -272,5 +272,4 @@ Lets discuss when you should make requests to your own backend server and how th
 If you've come this far, then Congratulations! You've successfully integrated bKash PGW API in your application.
 
 ## Made this Far?
-
 Phew! That was a lot of writing, isn't it? I tried my best to describe what I understood from the processes as much as possible. Spare a ★ if this helped. Take care.
